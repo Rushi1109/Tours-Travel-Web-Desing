@@ -489,6 +489,19 @@ header.sticky{
     }
 }
 
+@media (706px <= width <= 800px){
+    .stars i{
+        font-size: 15px;
+    }
+    .location h4{
+        font-size: 18px;
+    }
+    
+    .location p{
+        font-size: 12px;
+    }
+}
+
 @media (max-width: 575px){
     .list{
         width: 100%;
